@@ -1,1 +1,1 @@
-# blogging-app-react-redux-router
+# blogging-app-react-redux
