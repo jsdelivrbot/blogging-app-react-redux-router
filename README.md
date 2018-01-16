@@ -6,6 +6,8 @@ Tech Stack:
 
 2. React-Router
 
-3. Redux
+3. Redux Promise Middleware
 
-4. Redux Form
+4. Redux
+
+5. Redux Form
