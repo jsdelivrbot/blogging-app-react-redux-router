@@ -11,3 +11,5 @@ Tech Stack:
 4. Redux
 
 5. Redux Form
+
+6. Axios
